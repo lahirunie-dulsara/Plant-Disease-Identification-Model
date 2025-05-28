@@ -8,6 +8,7 @@ This project is a ML-based system designed to detect plant diseases from leaf im
 - Trained on a labeled dataset of various plant species
 - Supports prediction on custom images
 - High performance using a CNN or transfer learning model
+- GUI interface using Tkinter for easy interaction
 
 ## 🧠 Model Overview
 
